@@ -14,7 +14,7 @@ Private stream script for videos from Google Drive link by encrypted player.<br>
 Live Demo: <a href="https://zflixdrive.herokuapp.com" target="_blank">Zero Drive Player</a>
 
 ## Usage :<br>
-More Details is coming soon.
+More Details in Script's documentation file.
 
 ## Donate :<br>
 * BTC: 1MsNpEnzFWh4cCddcT2YjZ7BzJBoN6Jx9E <br>
@@ -25,4 +25,4 @@ More Details is coming soon.
 Source code is not available to use public. But service is free without any further notice.
 
 ## To More- Contact with Us:
-Buy Me a Coffe
+Buy Me a Coffee [BUY This Script]
